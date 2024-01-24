@@ -1,0 +1,5 @@
+*.json
+*.a
+*.o
+*.log
+my_hunter
