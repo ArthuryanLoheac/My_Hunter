@@ -2,8 +2,6 @@
 
 > 🎯 *A modern homage to Duck Hunt, crafted in C with CSFML during my first year at Epitech.*
 
-![My Hunter Banner](assets/banner.png)
-
 ---
 
 ## 🎮 Game Overview
@@ -37,19 +35,8 @@ These robotic enemies follow unpredictable trajectories influenced by gravity, t
 
 ## 📸 Screenshots
 
-<div align="center">
-  <img src="assets/screenshot_1.png" width="600"/>
-  <br><br>
-  <img src="assets/screenshot_2.png" width="600"/>
-</div>
-
----
-
-## 🎥 Video Preview
-
-> *(Insert a YouTube link or GIF preview here)*
-
-[![Watch Gameplay](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+![image](https://github.com/user-attachments/assets/ec6fc9a5-23a6-4a02-ae99-67fc95c3f897)
+![Screenshot from 2025-05-30 00-58-53](https://github.com/user-attachments/assets/72796342-69c4-4dbe-967b-699fcf89e777)
 
 ---
 
