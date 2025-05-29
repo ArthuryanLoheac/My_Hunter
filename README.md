@@ -18,7 +18,7 @@ These robotic enemies follow unpredictable trajectories influenced by gravity, t
 - 🪂 **Dynamic Movement:** Drones fly across the screen with gravity-based trajectories
 - 🔫 **Unlimited Shooting:** Shoot as much as you want—but missed shots cost you!
 - 🃏 **Power-up Cards:** Gain bonuses every 1000 points earned
-- 🎨 **Pixel Art Aesthetic:** Retro visuals with the **RESURRECT 64** color palette
+- 🎨 **Pixel Art Aesthetic:** Retro visuals with the **RESURRECT 64** color palette all **hand-made**
 - 🎶 **Electro Soundtrack:** Custom-made electronic music enhances the robotic atmosphere
 
 ---
