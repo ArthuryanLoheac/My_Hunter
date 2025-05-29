@@ -1,46 +1,69 @@
-# My Hunter
+# 🦆 My Hunter
 
-Welcome to "My Hunter," a challenging and entertaining game inspired by the classic "Duck Hunt." Developed as my first graphical module project during my first year at Epitech, "My Hunter" not only revisits a beloved classic but also showcases my programming skills and creativity. The game is built using C language and CSFML, a multimedia library designed for game development.
+> 🎯 *A modern homage to Duck Hunt, crafted in C with CSFML during my first year at Epitech.*
 
-## Game Overview
+![My Hunter Banner](assets/banner.png)
 
-In "My Hunter," players take on the role of a hunter, tasked with shooting drones that appear on the screen. These drones move in patterns influenced by gravity, creating an engaging gameplay experience. Players can shoot without limitations, but missed shots will cost them points. Accumulating points allows players to unlock cards with unique powers, enhancing the gameplay and strategy.
+---
 
-### Key Features
+## 🎮 Game Overview
 
-- **Dynamic Enemy Movement:** Enemies move across the screen in patterns affected by gravity, making each shot a test of skill.
-- **Unlimited Shooting:** Fire away without worrying about ammunition, but be mindful of the points penalty for missed shots.
-- **Score-based Power-ups:** Every 1000 points earned unlocks a card trade, offering power-ups that can turn the tide of the game.
-- **Artistic Design:** The game features a unique color palette inspired by RESURRECT 64, along with pixel art graphics that bring the game world to life.
-- **Custom Music and Sounds:** A techno/electro soundtrack perfectly complements the robot-themed universe, enhancing the gaming experience.
+**My Hunter** is a fast-paced *arcade shooter* where you play as a hunter aiming to shoot down flying drones inspired by the classic *Duck Hunt*.  
+These robotic enemies follow unpredictable trajectories influenced by gravity, testing your reflexes and precision.
 
-## Controls
+💥 Fire freely with no ammo limits—but beware: every missed shot costs points. Earn points to unlock **power-up cards** and shift the balance in your favor!
 
-- **Shoot:** Left click
-- **Options:** Escape key
-- **Freeze Power:** A key
+---
 
-## Installation
+## 🧩 Gameplay Features
 
-1. Clone the repository to your local machine.
-2. Ensure you have CSFML installed on your system.
-3. Navigate to the project directory and compile the program using `make`.
-4. Run the game with `./my_hunter`.
+- 🪂 **Dynamic Movement:** Drones fly across the screen with gravity-based trajectories
+- 🔫 **Unlimited Shooting:** Shoot as much as you want—but missed shots cost you!
+- 🃏 **Power-up Cards:** Gain bonuses every 1000 points earned
+- 🎨 **Pixel Art Aesthetic:** Retro visuals with the **RESURRECT 64** color palette
+- 🎶 **Electro Soundtrack:** Custom-made electronic music enhances the robotic atmosphere
 
-## Credits
+---
 
-- **Artwork:** Arthuryan Lohéac
-- **Music:** Antracto, boomopera, TheQLon, Infraction, Deodo, Micrah (Envato.com)
-- **Developer:** Arthuryan Lohéac
+## 🕹️ Controls
 
-## Conclusion
+| Action          | Key             |
+|-----------------|------------------|
+| Shoot           | 🖱️ Left Click     |
+| Open Menu       | Escape           |
+| Freeze Drones   | A                |
 
-Developing "My Hunter" was a journey through the challenges and joys of game development. It was an opportunity to apply programming skills in a creative context, explore game design, and pay homage to a classic. I invite you to dive into the game, enjoy the challenge, and maybe even beat the high score!
+---
 
-## Repository Information
+## 📸 Screenshots
 
-- **Binary name:** my_hunter
-- **Language:** C
-- **Graphics Library:** CSFML
+<div align="center">
+  <img src="assets/screenshot_1.png" width="600"/>
+  <br><br>
+  <img src="assets/screenshot_2.png" width="600"/>
+</div>
 
-Enjoy playing!
+---
+
+## 🎥 Video Preview
+
+> *(Insert a YouTube link or GIF preview here)*
+
+[![Watch Gameplay](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+---
+
+## ⚙️ Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/ArthuryanLoheac/My_Hunter.git
+cd My_Hunter
+
+# 2. Install CSFML (https://www.sfml-dev.org/download/csfml/)
+# 3. Build the game
+make
+
+# 4. Run the game
+./my_hunter
+```
